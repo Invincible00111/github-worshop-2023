@@ -1,2 +1,2 @@
-# github-worshop-2023
+# github-workshop-2023
 14/07/2023
